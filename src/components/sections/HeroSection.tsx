@@ -32,9 +32,14 @@ const HeroSection: React.FC = () => {
           <p className="font-gibson font-light text-sm md:text-base text-gray mb-8">
             Intact Insurance A&H producers can secure an occupational accident, non-trucking liability or vehicle physical liability policy online with minimal data entry and accelerated processing times, backed by an <span className="font-semibold">A+ rating</span>*.
           </p>
-          <button className="bg-secondary text-white font-gibson font-semibold px-6 py-4 rounded hover:bg-opacity-90 transition-colors">
+          <a 
+            href="https://intactspecialty.com" 
+            target="_blank" 
+            rel="noopener noreferrer" 
+            className="inline-block bg-secondary text-white font-gibson font-semibold px-6 py-4 rounded hover:bg-opacity-90 transition-colors"
+          >
             LOGIN
-          </button>
+          </a>
         </div>
       </div>
     </section>
