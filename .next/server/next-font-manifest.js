@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/dhanpalani/workspace/playground/MCP/figma/AHP/app/layout\":[\"static/media/26d4368bf94c0ec4-s.p.woff2\",\"static/media/a34f9d1faa5f3315-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
